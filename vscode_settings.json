@@ -1,10 +1,11 @@
 {
 	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-	"prettier.printWidth": 120,
+	"prettier.enable": true,
+	"prettier.printWidth": 160,
 	"prettier.singleQuote": false,
 	"prettier.trailingComma": "all",
 	"prettier.bracketSpacing": true,
-	"prettier.jsxBracketSameLine": true,
+	"prettier.jsxBracketSameLine": false,
 	"prettier.parser": "babylon",
 	"prettier.semi": false,
 	"prettier.useTabs": true,
