@@ -9,6 +9,8 @@
 	"prettier.parser": "babylon",
 	"prettier.semi": false,
 	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"prettier.arrowParens": "always",
 	"editor.formatOnSave": true,
 	"window.zoomLevel": -1,
 	"go.testFlags": ["-count=1"],
